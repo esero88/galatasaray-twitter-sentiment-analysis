@@ -8,7 +8,9 @@ Kulüp yönetimi/pazarlama departmanının taraftar algısını güncel ve nesne
 
 ## 🛠️ Kullanılan Araçlar
 
-- **Python** — veri toplama ve işleme
+- **Python** — veri işleme
+- **Google Sheets** — raw data
+- **Claude** — veri toplama
 - **VADER / TextBlob** — duygu analizi (sentiment analysis)
 - **Tableau / Power BI** — interaktif dashboard ve görselleştirme
 
