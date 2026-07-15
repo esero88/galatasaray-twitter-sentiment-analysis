@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Proje-özel: maskesiz/ham veri (gizlilik)
+data/raw/tweets_raw.csv
+data/processed/tweets_sentiment.csv
+data/processed/tweets_cleaned.csv
+*_PRIVATE.json
